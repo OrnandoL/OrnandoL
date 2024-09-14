@@ -18,19 +18,19 @@ A data analysis project using RFM analysis for customer retention. This is the c
 Here is the result. 
 
 ### 1
-![Step 1](./rfm%201.jpg)
+![Step 1](./rfm%201.png)
 
 ### 2
-![Step 2](./rfm%202.jpg)
+![Step 2](./rfm%202.png)
 
 ### 3
-![Step 3](./rfm%203.jpg)
+![Step 3](./rfm%203.png)
 
 ### 4
-![Step 4](./rfm%204.jpg)
+![Step 4](./rfm%204.png)
 
 ### 5
-![Step 5](./rfm%205.jpg)
+![Step 5](./rfm%205.png)
 
 
 
