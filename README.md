@@ -18,22 +18,30 @@ A data analysis project using RFM analysis for customer retention. This is the c
 Here is the result. 
 
 ### Result
-![Step 1](./rfm%201.png)
+![rfm1](./rfm%201.png)
 
 
-![Step 2](./rfm%202.png)
+![rfm2](./rfm%202.png)
 
 
-![Step 3](./rfm%203.png)
+![rfm3](./rfm%203.png)
 
 
-![Step 4](./rfm%204.png)
+![rfm4](./rfm%204.png)
 
 
-![Step 5](./rfm%205.png)
+![rfm5](./rfm%205.png)
+
+### 3. Dashboard Daily Report Data Leads Monitormu
+A process improvement to efficiently report data with visualization.
+
+![dash1](./dash1.png)
 
 
+![dash2](./dash2.png)
 
+
+![dash3](./dash3.png)
    
 
 <br>How to reach me linosornando@gmail.com
