@@ -5,14 +5,35 @@
   
 <br>Here is my one of projects at PT. Daya Adicipta Motora 
 
-1. (Product Knowledge)
+### 1. Product Knowledge
 
 <div style="display: flex; justify-content: space-around;">
   <img src="./DAM_-_Genio__2__AdobeExpress%20(1).gif" alt="GIF 1" width="45%" />
   <img src="./DAM_-_Genio__2__AdobeExpress%20(2).gif" alt="GIF 2" width="45%" />
 </div>
 
-2. (RFM Analysis)
+### 2. [Customer Segmentation with RFM Analysis](https://github.com/OrnandoL/RFM-Analysis.git)
+A data analysis project using RFM analysis for customer retention. This is the coding part with jupyter notebook.
+
+Here is the result. 
+
+### 1
+![Step 1](./rfm%201.jpg)
+
+### 2
+![Step 2](./rfm%202.jpg)
+
+### 3
+![Step 3](./rfm%203.jpg)
+
+### 4
+![Step 4](./rfm%204.jpg)
+
+### 5
+![Step 5](./rfm%205.jpg)
+
+
+
    
 
 <br>How to reach me linosornando@gmail.com
