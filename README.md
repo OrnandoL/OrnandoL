@@ -1,6 +1,12 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ornando</h1>
-<h3 align="center">Industrial Engineering passionate about Data Analyst</h3><br><br>Ex-Data Analyst Intern at PT. Daya Adicipta Motora and Store Manager at PT. Noods Lab Indonesia <be>
+<h3 align="center">Ex-Data Analyst Intern at PT. Daya Adicipta Motora and Store Manager at PT. Noods Lab Indonesia</h3><br><br> <be>
+ 
+  
+<br>Here is my projects
+
+![Product Knowledge Genio Honda]()
+
 <br>How to reach me linosornando@gmail.com
 
 ## Resume
