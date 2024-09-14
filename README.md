@@ -1,6 +1,9 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ornando</h1>
-<h3 align="center">Industrial Engineering passionate about Data Analyst</h3><br><br>Currently learning Python and SQL<br><br>How to reach me linosornando@gmail.com
+<h3 align="center">Industrial Engineering passionate about Data Analyst</h3><br><br>Currently learning Python and SQL<be>
+<br>How to reach me linosornando@gmail.com
+
+[Download My Resume](./CV Ornando Linos Update.pdf)
 
 
 ## 🌐 Socials:
