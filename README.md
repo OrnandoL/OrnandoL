@@ -5,7 +5,10 @@
   
 <br>Here is my projects
 
-![Product Knowledge Genio Honda](./DAM_-_Genio__2__AdobeExpress%20(1).gif)
+<div style="display: flex; justify-content: space-around;">
+  <img src="./DAM_-_Genio__2__AdobeExpress%20(1).gif" alt="GIF 1" width="45%" />
+  <img src="./DAM_-_Genio__2__AdobeExpress%20(2).gif" alt="GIF 2" width="45%" />
+</div>
 
 <br>How to reach me linosornando@gmail.com
 
