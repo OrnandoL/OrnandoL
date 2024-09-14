@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ornando</h1>
-<h3 align="center">Industrial Engineering passionate about Data Analyst</h3><br><br>Currently learning Python and SQL<be>
+<h3 align="center">Industrial Engineering passionate about Data Analyst</h3><br><br>Ex-Data Analyst Intern at PT. Daya Adicipta Motora and Store Manager at PT. Noods Lab Indonesia <be>
 <br>How to reach me linosornando@gmail.com
 
 ## Resume
