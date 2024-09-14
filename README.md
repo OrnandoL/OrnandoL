@@ -3,7 +3,7 @@
 <h3 align="center">Ex-Data Analyst Intern at PT. Daya Adicipta Motora and Store Manager at PT. Noods Lab Indonesia</h3><br><br> <be>
  
   
-<br>Here is my projects
+<br>Here is my one of projects at PT. Daya Adicipta Motora (Product Knowledge)
 
 <div style="display: flex; justify-content: space-around;">
   <img src="./DAM_-_Genio__2__AdobeExpress%20(1).gif" alt="GIF 1" width="45%" />
