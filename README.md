@@ -3,7 +3,9 @@
 <h3 align="center">Industrial Engineering passionate about Data Analyst</h3><br><br>Currently learning Python and SQL<be>
 <br>How to reach me linosornando@gmail.com
 
-[Download My Resume](./CV Ornando Linos Update.pdf)
+## Resume
+[Download My Resume](./CV%20Ornando%20Linos%20Update.pdf)
+
 
 
 ## 🌐 Socials:
