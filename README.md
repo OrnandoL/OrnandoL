@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Ornando<br><br>Industrial Engineering<br><br>Interested in Data Analyst<br><br>Currently learning Python and SQL<br><br>How to reach me linosornando@gmail.com
+<h1 align="center">Hi 👋, I'm Ornando</h1>
+<h3 align="center">A passionate Data Analyst</h3><br><br>Currently learning Python and SQL<br><br>How to reach me linosornando@gmail.com
 
 
 ## 🌐 Socials:
