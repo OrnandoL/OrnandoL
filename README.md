@@ -4,7 +4,7 @@
 <br>How to reach me linosornando@gmail.com
 
 ## Resume
-[Download My Resume](./CV%20Ornando%20Linos%20Update.pdf)
+[Preview My Resume](./CV%20Ornando%20Linos%20Update.pdf)
 
 
 
