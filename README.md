@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ornando</h1>
-<h3 align="center">Ex-Data Analyst Intern at PT. Daya Adicipta Motora and Store Manager at PT. Noods Lab Indonesia</h3><br><br> <be>
+<h3 align="center">Ex-Data Analyst Intern at PT. Daya Adicipta Motora | Ex-Store Manager at PT. Noods Lab Indonesia | Parts Business Development at PT. Daya Adicipta Motora</h3><br><br> <be>
  
   
 <br>Here is my one of projects at PT. Daya Adicipta Motora 
